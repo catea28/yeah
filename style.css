@@ -1,0 +1,11 @@
+div a {
+    background-color: bisque;
+    padding:20px;
+}
+a > h1 {
+    background-color: brown;
+    color:white
+}
+a + a {
+    background-color: crimson;
+}
